@@ -31,7 +31,7 @@ Then go to your main git page.
 **Step 1:** Click on Green🟢 button named "CODE" Then Click on "CODESPACE".  
 **Step 2:** After Codespace is ready just open terminal and paste the following commands.  
 ```
-curl -O [https://raw.githubusercontent.com/Safir-Akhtar/FREE-VPS-IN-GIT-CODESPACE/refs/heads/main/install.sh](https://raw.githubusercontent.com/Shadow-Black-YT/FREE-VPS-IN-GIT-CODESPACE/refs/heads/main/install.sh)
+curl -O https://raw.githubusercontent.com/Shadow-Black-YT/FREE-VPS-IN-GIT-CODESPACE/refs/heads/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
